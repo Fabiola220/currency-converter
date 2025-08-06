@@ -5,7 +5,7 @@
     font-family:'Trebuchet MS', Arial, sans-serif;
 }
 body {
-    height: 100vh;
+    height: 100vh; 
     background-color: rgb(77, 223, 231);
     display: grid;
     place-items: center;

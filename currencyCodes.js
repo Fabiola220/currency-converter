@@ -26,7 +26,7 @@
             <select id="toCurrency" name="toCurrency" title="Convert To"></select>
         </div>
         
-        <p id="status"></p>
+        <p id="status"></p> 
         
         <button type="button" id="btn">Convert</button>
         

@@ -4,7 +4,7 @@ export const currency_list = [
         ["ALL", "Albanian Lek"],
         ["AMD", "Armenian Dram"],
         ["ANG", "Netherlands Antillean Guilder"],
-        ["AOA", "Angolan Kwanza"],
+        ["AOA", "Angolan Kwanza"], 
         ["ARS", "Argentine Peso"],
         ["AUD", "Australian Dollar"],
         ["AWG", "Aruban Florin"],

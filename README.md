@@ -1,23 +1,28 @@
-Currency Converter
+## Currency Converter
 
-This is a currency converter web application that fetches real-time data for currency conversion rates using HTML, CSS, and JavaScript. The application allows users to convert currencies by selecting the source currency and the target currency, and it provides an interface to easily switch between the two selected values.Currency Converter
-This is a currency converter web application that fetches real-time data for currency conversion rates using HTML, CSS, and JavaScript. The application allows users to convert currencies by selecting the source currency and the target currency, and it provides an interface to easily switch between the two selected values.
-<img width="720" height="662" alt="converter1" src="https://github.com/user-attachments/assets/3fe65d81-cb07-4fef-8379-5695996775cc" />
+This is a currency converter web application built using HTML, CSS, and JavaScript. It fetches real-time currency conversion rates from an API and allows users to convert between different currencies. The interface also includes a simple switch feature to swap the source and target currencies instantly.
+
+## Features
+- Real-Time Conversion Rates – Fetches up-to-date exchange rates from a reliable API.
+- Two-Way Conversion – Easily convert from one currency to another and vice versa.
+- Swap Functionality – Quickly switch source and target currencies.
+- Simple, User-Friendly Design – Minimalistic and responsive layout.
+
+## Purpose of the Project
+I built this project to:
+- Practice working with APIs in JavaScript.
+- Improve my frontend development skills in HTML, CSS, and JavaScript.
+- Create a different kind of converter as a fun coding exercise, compared to traditional unit or temperature converters.
+
+## Technologies Used
+**HTML5** – Structure of the app.
+**CSS3** – Styling and responsive design.
+**JavaScript (ES6)** – Logic, API calls, and interactivity.
+**Currency API** – Fetching live exchange rates.
 
 
-Features
-Real-time currency conversion rates using an API
-Simple and intuitive user interface
-Select source currency and target currency
-Button to switch the selected currencies
-Display of the converted currency value
-Screenshots
-Currency Converter Currency Converter
 
-Usage
-Visit the webpage here to try it out instantly.
-Self Deploying
-To use the currency converter, follow these steps:
+**To use the currency converter, follow these steps:**
 
 Clone the repository or download the source code.
 Open the index.html file in a web browser.
@@ -31,26 +36,12 @@ This currency converter utilizes a real-time currency conversion API to fetch th
 
 Please note that you may need to sign up for an API key and update the code with your API key if required by the chosen API.
 
-Technologies Used
-HTML
-CSS
-JavaScript (Modern)
-
-Features
-Real-time currency conversion rates using an API
-Simple and intuitive user interface
-Select source currency and target currency
-Button to switch the selected currencies
-Display of the converted currency value
-Screenshots
-Currency Converter Currency Converter
-
-API Integration
+## API Integration
 This currency converter utilizes a real-time currency conversion API to fetch the latest exchange rates. The API used in this project is Exchange Rate API, which provides accurate and up-to-date currency conversion data. To integrate a different API, you can modify the JavaScript code in script.js file to make requests and handle the response according to the API documentation.
+**Please note that you may need to sign up for an API key and update the code with your API key if required by the chosen API**.
 
-Please note that you may need to sign up for an API key and update the code with your API key if required by the chosen API.
+## Future Improvements
+- Add a dark mode option.
+- Support offline mode using cached rates.
+- Show historical conversion trends.
 
-Technologies Used
-HTML
-CSS
-JavaScript (Modern)
